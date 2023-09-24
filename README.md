@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sakhile Dumisa and I'm a Wed Developer, from South Africa.</h2>
+<h2 align="center">Sanibonani👋, my name is Sakhile Dumisa and I'm a beginner Backend Developer from South Africa.</h2>
 
 ###
 
