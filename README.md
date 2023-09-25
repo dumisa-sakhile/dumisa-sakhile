@@ -1,4 +1,4 @@
-<h2 align="center">Sanibonani👋, my name is Sakhile Dumisa and I'm a beginner Backend Developer from South Africa.</h2>
+<h4 align="left">Sanibonani👋, my name is Sakhile Dumisa and I'm a beginner Backend Developer from South Africa.</h4>
 
 ###
 
