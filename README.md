@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/100082187?s=400&u=ffea3910417207892be473d696afc1061d16fd1b&v=4"  />
+<img align="right" height="150" src="https://github.com/DumDevSA/DumisaDdsegs5rtytfhjytfrtdujgkyioytrtddo78yo3df/blob/main/icons/icon-512x512.png"  />
 
 ###
 
