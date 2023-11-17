@@ -1,4 +1,4 @@
-<h4 align="left">Sanibonani👋, my name is Sakhile Dumisa and I'm a beginner Backend Developer from South Africa.</h4>
+<h4 align="left">Sanibonani👋, I'm Sakhile Dumisa, a beginner Backend Developer from South Africa.</h4>
 
 ###
 
@@ -37,9 +37,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
-  <a href="https://www.linkedin.com/in/sakhile-dumisa-a06601272" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://wa.me/27683080698?text=Hi,%20Sakhile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
