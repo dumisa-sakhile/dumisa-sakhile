@@ -57,8 +57,4 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="[https://profile-counter.glitch.me/dumdevsa/count.svg?](https://avatars.githubusercontent.com/u/100082187?v=4)https://avatars.githubusercontent.com/u/100082187?v=4"  />
-</div>
-
 ###
