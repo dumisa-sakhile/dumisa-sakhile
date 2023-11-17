@@ -7,9 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=dumdevsa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://github.com/DumDevSA/DumisaDdsegs5rtytfhjytfrtdujgkyioytrtddo78yo3df/blob/main/icons/icon-512x512.png"  />
 
 ###
 
@@ -39,18 +36,14 @@
   <a href="https://www.instagram.com/dumisasakhile/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mini.sakhile@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  
   <a href="https://www.linkedin.com/in/sakhile-dumisa-a06601272" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/27683080698?text=Hi,%20Sakhile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-     <a mailto:sakhiledumisa@outlook.com>
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
+     
 </div>
 
 ###
