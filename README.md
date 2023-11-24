@@ -54,18 +54,15 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dumisa-dev/dumisa-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dumisa-dev.dumisa-dev&"  />
 </div>
 
 ###
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dumisadevev) 
+
+<div align="center"> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dumisadevev) </div>
+
+ 
 
   
 <!-- Proudly created with [GPRM ( https://gprm.itsvg.in )](https://profile-readme-generator.com/)https://profile-readme-generator.com/ -->
