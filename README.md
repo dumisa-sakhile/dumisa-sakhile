@@ -61,7 +61,9 @@
 ###
 
 <div align="center"> 
-  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-dev)](https://github.com/anuraghazra/github-readme-stats)  
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dumisadevev) 
   
   </div>
