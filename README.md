@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Sakhile Dumisa and I'm a ReactJs Developer, from South Africa.</h1>
+<h1 align="center">Hi 👋! My name is Sakhile Dumisa and I'm a ReactJs Beginner, from South Africa.</h1>
 
 ###
 
