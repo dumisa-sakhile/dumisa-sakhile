@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Sakhile Dumisa and I'm a React.js and Tailwind.css Beginner, from South Africa.</h1>
+<h6 align="center">Hi 👋! My name is Sakhile Dumisa and I'm a React.js and Tailwind.css Beginner, from South Africa.</h6>
 
 ###
 
