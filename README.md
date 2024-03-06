@@ -9,8 +9,6 @@
 ![dumisa-sakhile's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dumisa-sakhile&theme=vue-dark&hide_border=true)
 
 
-![image](https://github.com/dumisa-sakhile/dumisa-sakhile/assets/100082187/5fde2268-967f-4ef0-a157-b704af55f69d)
-
 
 
   
