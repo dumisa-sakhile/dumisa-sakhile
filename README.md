@@ -3,7 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumisa-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+![dumisa-sakhile's Stats](https://github-readme-stats.vercel.app/api?username=dumisa-sakhile&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![dumisa-sakhile's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dumisa-sakhile&theme=vue-dark&hide_border=true)
+
+
   
 </div>
 
