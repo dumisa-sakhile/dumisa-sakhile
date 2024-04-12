@@ -7,6 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=dumisa-sakhile&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dumisa-sakhile&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-sakhile&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dumisa-sakhile)](https://github.com/dumisa-sakhile/github-readme-stats)
 </div>
 <div align="center">
 
