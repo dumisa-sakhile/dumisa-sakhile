@@ -1,4 +1,4 @@
-<h3 align="justify">Sanibonani 👋! My name is Sakhile Dumisa and I'm an ExpressJs/NodeJs backend developer, from South Africa.</h3>
+<h5 align="justify">Sanibonani 👋! My name is Sakhile Dumisa and I'm an ExpressJs/NodeJs backend developer, from South Africa.</h5>
 
 ##
 
