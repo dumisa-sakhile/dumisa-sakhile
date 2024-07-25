@@ -32,13 +32,6 @@
 
 ###
 
-<div align="center">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumisa-sakhile&show_icons=true&locale=en&layout=compact" alt="dumisa-sakhile" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumisa-sakhile&" alt="dumisa-sakhile" /></p>
-</div>
-
 
 <br>
 
