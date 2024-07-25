@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Sakhile Dumisa</h3>
+<h3 align="center">Sawubona 👋, I'm Sakhile Dumisa</h3>
 <h5 align="center">A passionate frontend developer from South Africa</h5>
 
 
