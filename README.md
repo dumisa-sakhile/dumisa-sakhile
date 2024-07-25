@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sakhile Dumisa</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h5 align="center">A passionate frontend developer from South Africa</h5>
 ##
 
-<div align="center">
+<div align="left">
 
 
 - 🔭 I’m currently working on [Cinema Vibes](https://cinema-vibes.vercel.app/)
