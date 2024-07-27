@@ -4,6 +4,7 @@
 
 <div align="left">
 
+- 🎓 I’m currently studying [BIS Information Science](https://www.up.ac.za/information-science/article/1821926/bis-specialising-in-information-science) at [University of Pretoria](https://www.up.ac.za/)
 
 - 🔭 I’m currently working on [Cinema Vibes](https://cinema-vibes.vercel.app/)
 
