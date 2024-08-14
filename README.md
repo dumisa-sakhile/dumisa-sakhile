@@ -1,6 +1,7 @@
+<p align="center">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sakhile Dumisa
 ======================================================================================================================================
-
+</p>
 Web Developer
 -------------
 
@@ -36,7 +37,7 @@ Web Developer
 <a href="https://github.com/dumisa-sakhile" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-sakhile&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div>
-###
+
 
 
 <br>
@@ -45,7 +46,7 @@ Web Developer
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dumisa-dev.dumisa-dev&"  />
 </div>
 
-###
+
 
 <!--<div align="center"> 
 
