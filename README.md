@@ -1,9 +1,7 @@
-<p align="center">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sakhile Dumisa
 ======================================================================================================================================
-</p>
-Web Developer
--------------
+
 
 <p align="center">I started to learn coding in 2020 during high school, though it was never anything serious back then.</p>
 
