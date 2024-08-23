@@ -22,9 +22,6 @@
 
 
 ## My Skill Set  
-<table width="100%"><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -36,9 +33,6 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -48,7 +42,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+
 
 <br/>  
 
