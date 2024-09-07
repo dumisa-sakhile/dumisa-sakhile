@@ -18,12 +18,12 @@
 <br/>  
 
 
-### My Skill Set  
+- My Skill Set  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,sass,mongodb,supabase,ai,vite)](https://skillicons.dev)
 
 
 
-### Top Languages
+- Top Languages
 
 <div align="center">
 
