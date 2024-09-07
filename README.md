@@ -20,8 +20,8 @@
 ###### My Skill Set  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,sass,mongodb,supabase,ai,vite)](https://skillicons.dev)
 
-
-<br/>  
+###
+<!--<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dumisa-sakhile&&style=flat-square" align="center" />
@@ -29,3 +29,4 @@
   
 
 <br/>  
+-->
