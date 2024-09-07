@@ -1,5 +1,5 @@
 
-### <p align="center">I'm Sakhile Dumisa, a frontend developer 👨‍💻 working remotely since 2020 🚀</p>  
+### Sawubona🧑🏽 I'm Sakhile Dumisa, a frontend developer 👨‍💻 from South Africa 
   
 
 <div align="center">
@@ -35,6 +35,12 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
+
+
+
+![dumisa-sakhile's Stats](https://github-readme-stats.vercel.app/api?username=dumisa-sakhile&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![dumisa-sakhile's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dumisa-sakhile&theme=blueberry&hide_border=true)
+![dumisa-sakhile's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-sakhile&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
   
 
 
