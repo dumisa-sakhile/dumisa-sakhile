@@ -3,7 +3,7 @@
   
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/100082187?v=4" align="center" height="" width="100" />
+![dumisa-sakhile's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-sakhile&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 </div>  
   
 
@@ -20,14 +20,6 @@
 ###### My Skill Set  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,sass,mongodb,supabase,ai,vite)](https://skillicons.dev)
 
-
-###### Top Languages
-
-<div align="center">
-
-![dumisa-sakhile's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-sakhile&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-  
-</div>
 
 <br/>  
 
