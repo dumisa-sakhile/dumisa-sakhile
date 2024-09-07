@@ -1,5 +1,5 @@
 
-### <p align="left">I'm Sakhile Dumisa, a frontend developer 👨‍💻 working remotely since 2020 🚀</p>  
+### <p align="center">I'm Sakhile Dumisa, a frontend developer 👨‍💻 working remotely since 2020 🚀</p>  
   
 
 <div align="center">
@@ -26,7 +26,7 @@
 <br/>  
 
 
-## Connect with me  
+### Connect with me  
 <div align="center">
 <a href="https://github.com/dumisa-sakhile" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
