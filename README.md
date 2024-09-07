@@ -3,7 +3,7 @@
   
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/100082187?v=4" align="center" height="" width="100" />
+<img src="https://raw.githubusercontent.com/dumisa-sakhile/Rest-Country-Api/9a99d1298868cc05532478c2f9d5076079afa6fa/images/owner.svg" align="center" height="" width="100" />
 </div> 
   
 
