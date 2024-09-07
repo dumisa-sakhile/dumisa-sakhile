@@ -2,7 +2,7 @@
 ### Sawubona🧑🏽 I'm Sakhile Dumisa, a frontend developer 👨‍💻 from South Africa 
   
 
-<div align="left">
+<div align="center">
 <img src="https://avatars.githubusercontent.com/u/100082187?v=4" align="center" height="" width="100" />
 </div> 
   
