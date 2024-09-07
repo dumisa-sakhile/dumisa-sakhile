@@ -2,11 +2,9 @@
 ### Sawubona🧑🏽 I'm Sakhile Dumisa, a frontend developer 👨‍💻 from South Africa 
   
 
-<div align="center">
-  
-![dumisa-sakhile's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-sakhile&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-
-</div>  
+<div align="left">
+<img src="https://avatars.githubusercontent.com/u/100082187?v=4" align="center" height="" width="100" />
+</div> 
   
 
 
