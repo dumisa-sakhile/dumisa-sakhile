@@ -17,11 +17,11 @@
 
 <br/>  
 
-<p>My Skill Set  </p>
+###### My Skill Set  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,sass,mongodb,supabase,ai,vite)](https://skillicons.dev)
 
 
-<p> Top Languages</p>
+###### Top Languages
 
 <div align="center">
 
