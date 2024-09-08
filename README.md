@@ -15,8 +15,14 @@
 - ⚡ Fun fact: I'm studying Bis Information Science  
 
 
-###### My Skill Set  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,sass,mongodb,supabase,ai,vite)](https://skillicons.dev)
+###### Frontend  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass)](https://skillicons.dev)
+
+###### Backend  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase)](https://skillicons.dev)
+
+###### Database
+[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase)](https://skillicons.dev)
 
 ###
 <!--<br/>  
