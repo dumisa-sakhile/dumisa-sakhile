@@ -13,9 +13,7 @@
 - 🌱 I’m currently learning ReactJS  
 - ❓ Ask me about anything related to VanillaJS stack and related technologies  
 - ⚡ Fun fact: I'm studying Bis Information Science  
-  
 
-<br/>  
 
 ###### My Skill Set  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,sass,mongodb,supabase,ai,vite)](https://skillicons.dev)
