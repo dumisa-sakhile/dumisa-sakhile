@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass)](https://skillicons.dev)
 
 ###### Backend  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ###### Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,supabase)](https://skillicons.dev)
