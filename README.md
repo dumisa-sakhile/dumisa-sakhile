@@ -1,5 +1,5 @@
 
-### Sawubona🧑🏽 I'm Sakhile Dumisa, a backend developer 👨‍💻 from South Africa 
+### Sawubona🧑🏽 I'm Sakhile Dumisa, an Intermediate MERN Stack developer 👨‍💻 from South Africa 
   
 
 <!--<div align="center">
