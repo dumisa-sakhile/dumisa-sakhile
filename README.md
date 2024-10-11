@@ -16,7 +16,7 @@
 
   
 ###### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=javascript,javascript)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts)
 
 ###### Frontend  
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,sass)](https://skillicons.dev)
