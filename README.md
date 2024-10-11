@@ -24,8 +24,8 @@
 ###### Backend  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-###### Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase)](https://skillicons.dev)
+###### Database & BaaS
+[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,appwrite)](https://skillicons.dev)
 
 
 ###### FullStack  
