@@ -27,6 +27,10 @@
 ###### Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,supabase)](https://skillicons.dev)
 
+
+###### FullStack  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
+
 ###
 <!--<br/>  
 
