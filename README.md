@@ -16,10 +16,10 @@
 
   
 ###### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript)](https://skillicons.dev)
 
 ###### Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,sass)](https://skillicons.dev)
 
 ###### Backend  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
