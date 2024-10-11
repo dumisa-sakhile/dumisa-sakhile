@@ -19,7 +19,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts)
 
 ###### Frontend  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,tailwind,sass)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,tailwind,sass)
 
 ###### Backend  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
