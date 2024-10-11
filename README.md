@@ -12,8 +12,11 @@
 - 🔭 Check out my portfolio [Sakhile Dumisa](https://sakhile-dumisa.vercel.app)  
 - 🌱 I’m currently learning MERN Stack  
 - ❓ Ask me about anything related to VanillaJS stack and related technologies  
-- ⚡ Fun fact: I'm studying Bis Information Science  
+- ⚡ Fun fact: I'm studying Bis Information Science
 
+  
+###### Programming Languages  
+[![My Skills](https://skillicons.dev/icons?i=js,typescript)](https://skillicons.dev)
 
 ###### Frontend  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass)](https://skillicons.dev)
