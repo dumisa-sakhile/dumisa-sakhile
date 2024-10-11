@@ -16,7 +16,7 @@
 
   
 ###### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=js,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ###### Frontend  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass)](https://skillicons.dev)
