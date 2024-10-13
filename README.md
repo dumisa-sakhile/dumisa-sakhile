@@ -1,9 +1,6 @@
 
 ### Sawubona🧑🏽 I'm Sakhile Dumisa, an Intermediate MERN Stack developer 👨‍💻 from South Africa 
   
-<p>Self-Taught Web Developer | Building Scalable Applications with React, Next, Typescript, Node, Express, & MongoDB | BIS Information Science Student | Always Learning</p>
-  
-
 
 - 🔭 I’m currently working on [Cinema Vibes](https://cinema-vibes.vercel.app)
 - 🔭 Check out my portfolio [Sakhile Dumisa](https://sakhile-dumisa.vercel.app)  
