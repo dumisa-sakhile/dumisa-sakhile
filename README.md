@@ -1,10 +1,7 @@
 
 ### Sawubona🧑🏽 I'm Sakhile Dumisa, an Intermediate MERN Stack developer 👨‍💻 from South Africa 
   
-
-<!--<div align="center">
-<img src="https://raw.githubusercontent.com/dumisa-sakhile/Rest-Country-Api/9a99d1298868cc05532478c2f9d5076079afa6fa/images/owner.svg" align="center" height="" width="200" />
-</div>-->
+<p>Self-Taught Web Developer | Building Scalable Applications with React, Next, Typescript, Node, Express, & MongoDB | BIS Information Science Student | Always Learning</p>
   
 
 
