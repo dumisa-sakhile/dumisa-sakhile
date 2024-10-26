@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ###### Database & BaaS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,appwrite,SQL,sqlite,mysql,postgres)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,appwrite,sqlite,mysql,postgres)
 
 
 ###### FullStack  
