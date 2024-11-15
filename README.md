@@ -1,5 +1,5 @@
 
-### Sawubona🧑🏽 I'm Sakhile Dumisa, an Intermediate MERN Stack developer 👨‍💻 from South Africa 
+### Sawubona 🙌🏾 I'm Sakhile Dumisa, an Intermediate MERN Stack developer ⚛️ from South Africa 🇿🇦 
   
 
 - 🔭 I’m currently working on [Cinema Vibes](https://cinema-vibes.vercel.app)
