@@ -2,7 +2,7 @@
 ### Sawubona 🙌🏾 I'm Sakhile Dumisa, an Intermediate MERN Stack developer ⚛️ from South Africa 🇿🇦 
   
 
-- 🔭 I’m currently working on [Cinema Vibes](https://cinema-vibes.vercel.app)
+- 🔭 I’m currently working on [Cinema Land](https://cinema-land.vercel.app)
 - 🔭 Check out my portfolio [Sakhile Dumisa](https://sakhile-dumisa.vercel.app)  
 - 🌱 I’m currently learning FullStack Development  
 - ❓ Ask me about anything related to VanillaJS stack and related technologies  
