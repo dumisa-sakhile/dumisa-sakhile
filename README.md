@@ -26,12 +26,11 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
 
 ###
-<!--<br/>  
+<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dumisa-sakhile&&style=flat-square" align="center" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-sakhile&theme=tokyonight)
 </div>  
   
 
 <br/>  
--->
