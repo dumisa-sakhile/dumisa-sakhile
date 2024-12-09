@@ -26,13 +26,4 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
 
 ###
-<br/>  
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumisa-sakhile&theme=tokyonight)
-
-</div>  
-  
-
-<br/>  
