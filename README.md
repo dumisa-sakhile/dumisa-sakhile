@@ -22,7 +22,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,sqlite)
 
 
-###### FullStack  
+###### Framework  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
 
 ###
