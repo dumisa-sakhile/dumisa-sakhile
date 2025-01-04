@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm studying Bis Information Science
 
   
-###### Programming Languages  
+###### Languages  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts)
 
 ###### Frontend  
