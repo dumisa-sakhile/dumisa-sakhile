@@ -1,5 +1,5 @@
 
-### Sawubona 🙌🏾 I'm Sakhile Dumisa, an MERN Stack ⚛️ & Micro Services developer using NestJS from South Africa
+### Sawubona 🙌🏾 I'm Sakhile Dumisa, a MERN Stack ⚛️ & Micro Services developer using NestJS from South Africa
   
 
 - 🔭 I’m currently working on [Cinema Land](https://cinema-land.vercel.app)
