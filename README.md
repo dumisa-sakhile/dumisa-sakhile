@@ -1,12 +1,12 @@
 
-### Sawubona 🙌🏾 I'm Sakhile, a MERN Stack ⚛️ & Micro Services developer using NestJS from South Africa
+### Sawubona 🙌🏾 I'm Sakhile, a MERN Stack Developer ⚛️ from South Africa
   
 
 - 🔭 I’m currently working on [Trailer Base](https://trailer-base.vercel.app)
 - 🔭 Check out my portfolio [Sakhile Dumisa](https://sakhile-dumisa.vercel.app)  
 - 🌱 I’m currently learning FullStack Development  
 - ❓ Ask me about anything related to VanillaJS stack and related technologies  
-- ⚡ Fun fact: I'm studying Bis Information Science
+- ⚡ Fun fact: I'm a Final Year BIS Information Science Student
 
   
 ###### Languages  
