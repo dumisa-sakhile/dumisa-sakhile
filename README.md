@@ -1,5 +1,5 @@
 
-### Sawubona 🙌🏾 I'm Sakhile, a MERN Stack Developer ⚛️ from South Africa
+### Sawubona 🙌🏾 I'm Sakhile, a Junior Full-Stack Developer ⚛️ from South Africa
   
 
 - 🔭 I’m currently working on [Trailer Base](https://trailer-base.vercel.app)
@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
 
 ###### Database & BaaS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,mysql,sqlite)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,firebase,mysql,sqlite)
 
 
 ###### Framework  
