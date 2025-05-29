@@ -19,8 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
 
 ###### Database & BaaS
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,firebase,mysql,sqlite)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,firebase)
 
 ###### Framework  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
