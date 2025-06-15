@@ -17,13 +17,13 @@
 ###### Backend  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
 
-###### Database & BaaS
+###### Database & Backend-as-a-Service
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,firebase)
 
 ###### Framework  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
 
 ###### Tools
-![My Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,indesign,vscode,vercel)
+![My Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,indesign,vscode,vercel,netlify)
 
 ###
