@@ -6,7 +6,7 @@
 - 🤙🏽 My goal is to combine Web Development with Cloud Engineering to create new technologies
 - ❤️ I am a huge fan of Tanstack Router & Query
 - ❓ Ask me about anything related to VanillaJS stack and related technologies
-- 🎓 Education: I'm a Final Year BIS Information Science Student at the [University of Pretoria]([https://trailer-base.vercel.app](https://www.up.ac.za/information-science/article/1821926/bis-specialising-in-information-science)
+- 🎓 Education: I'm a Final Year BIS Information Science Student at the [University of Pretoria](https://www.up.ac.za/information-science/article/1821926/bis-specialising-in-information-science)
 
 ###### Languages  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go)
