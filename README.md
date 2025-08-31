@@ -1,6 +1,6 @@
 ### Sawubona! I'm Sakhile, a proud web application developer from KwaZulu-Natal, South Africa.
 
-- 🔭 I’m currently working on [Trailer Base](https://trailer-base.vercel.app)
+- 🔭 I’m currently working on [Trailer Base](https://trailerbase.tech)
 - 🔭 Check out my portfolio [Sakhile Dumisa](https://www.sakhiledumisa.com/)  
 - 🌱 I’m currently learning Oracle Cloud Infrastructure
 - 🤙🏽 My goal is to combine Web Development with Cloud Engineering to create new technologies
