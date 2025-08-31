@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Trailer Base](https://trailerbase.tech)
 - 🔭 Check out my portfolio [Sakhile Dumisa](https://www.sakhiledumisa.com/)  
-- 🌱 I’m currently learning Oracle Cloud Infrastructure
+- 🌱 I’m currently learning Oracle Cloud Infrastructure & Data Engineering
 - 🤙🏽 My goal is to combine Web Development with Cloud Engineering to create new technologies
 - ❤️ I am a huge fan of Tanstack Router & Query
 - ❓ Ask me about anything related to VanillaJS stack and related technologies
