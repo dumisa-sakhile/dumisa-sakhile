@@ -9,7 +9,7 @@
 - 🎓 Education: I'm a Final Year BIS Information Science Student at the [University of Pretoria](https://www.up.ac.za/information-science/article/1821926/bis-specialising-in-information-science)
 
 ###### Languages  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,go)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python)
 
 ###### Frontend  
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,bootstrap,tailwind,sass)
