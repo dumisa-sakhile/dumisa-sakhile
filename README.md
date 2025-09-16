@@ -21,9 +21,9 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 
 ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=py)
 
-**Frontend:**  
+**Frontend & Frameworks:**  
 
-![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Sass](https://skillicons.dev/icons?i=sass)
+![React](https://skillicons.dev/icons?i=react) ![TanStack](https://skillicons.dev/icons?i=tanstack) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 **Backend:**  
 
@@ -33,6 +33,6 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Firebase](https://skillicons.dev/icons?i=firebase)
 
-**Tools & DevOps:** 
+**Tools & DevOps:**  
 
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![VS Code](https://skillicons.dev/icons?i=vscode)
