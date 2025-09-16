@@ -23,7 +23,7 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 
 **Frontend & Frameworks:**  
 
-![React](https://skillicons.dev/icons?i=react) ![TanStack](https://skillicons.dev/icons?i=tanstack) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![React](https://skillicons.dev/icons?i=react)  ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 **Backend:**  
 
