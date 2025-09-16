@@ -8,12 +8,10 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 -   🎯 My goal is to bridge **application development** with **data infrastructure** and **cloud operations**.
 -   ⚡ **Fun fact:** I'm a huge fan of the modern web ecosystem, especially the Tanstack suite (Query & Router).
 
----
 
 ### 🎓 Education
 **BIS Information Science** (Final Year) | University of Pretoria
 
----
 
 ### 🛠️ Tech Stack
 
@@ -27,7 +25,7 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 
 **Backend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express)
 
 **Database & BaaS:**  
 
