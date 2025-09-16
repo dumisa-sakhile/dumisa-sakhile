@@ -1,29 +1,33 @@
-### Sawubona! I'm Sakhile, a proud web applications developer and a prospective data engineer from KwaZulu-Natal, South Africa
+### 👋 Sawubona! I'm Sakhile
 
-- 🔭 I’m currently working on [Trailer Base](https://trailerbase.tech)
-- 🔭 Check out my portfolio [Sakhile Dumisa](https://www.sakhiledumisa.com/)  
-- 🌱 I’m currently learning Oracle Cloud Infrastructure & Data Engineering
-- 🤙🏽 My goal is to combine Web Development with Data Engineering to create new technologies
-- ❤️ I am a huge fan of Tanstack Router & Query
-- ❓ Ask me about anything related to VanillaJS stack and related technologies
-- 🎓 Education: I'm a Final Year BIS Information Science Student at the [University of Pretoria](https://www.up.ac.za/information-science/article/1821926/bis-specialising-in-information-science)
+A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web applications with React, TypeScript, and Node.js. I am actively expanding my expertise into **Data Engineering** and **DevOps** to build scalable, end-to-end solutions.
 
-###### Languages  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python)
+-   🔭 I’m currently working on **[Trailer Base](https://trailerbase.tech)**
+-   🌐 Explore my portfolio: **[sakhiledumisa.com](https://www.sakhiledumisa.com/)**
+-   🌱 I’m currently learning **Data Engineering (ALX Africa)** & **DevOps (Educative.io)**
+-   🎯 My goal is to bridge **application development** with **data infrastructure** and **cloud operations**.
+-   ⚡ **Fun fact:** I'm a huge fan of the modern web ecosystem, especially the Tanstack suite (Query & Router).
 
-###### Frontend  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,bootstrap,tailwind,sass)
+---
 
-###### Backend  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)
+### 🎓 Education
+**BIS Information Science** (Final Year) | University of Pretoria
 
-###### Database & Backend-as-a-Service
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,firebase)
+---
 
-###### Tools
-![My Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,indesign,vscode,vercel,netlify)
+### 🛠️ Tech Stack
 
-###### Framework  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs)
+**Languages:**  
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=py)
 
-###
+**Frontend:**  
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Sass](https://skillicons.dev/icons?i=sass)
+
+**Backend:**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![NestJS](https://skillicons.dev/icons?i=nestjs)
+
+**Database & BaaS:**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Firebase](https://skillicons.dev/icons?i=firebase)
+
+**Tools & DevOps:**  
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![VS Code](https://skillicons.dev/icons?i=vscode)
