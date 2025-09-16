@@ -18,16 +18,21 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 ### 🛠️ Tech Stack
 
 **Languages:**  
+
 ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=py)
 
 **Frontend:**  
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Sass](https://skillicons.dev/icons?i=sass)
+
+![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Sass](https://skillicons.dev/icons?i=sass)
 
 **Backend:**  
+
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![NestJS](https://skillicons.dev/icons?i=nestjs)
 
 **Database & BaaS:**  
+
 ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Firebase](https://skillicons.dev/icons?i=firebase)
 
-**Tools & DevOps:**  
+**Tools & DevOps:** 
+
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![VS Code](https://skillicons.dev/icons?i=vscode)
