@@ -26,7 +26,7 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 
 **Database & BaaS:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,supabase,firebase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,supabase,firebase)
 
 **Tools & DevOps:**  
 
