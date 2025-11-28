@@ -6,11 +6,11 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 -   🌐 Explore my portfolio: **[sakhiledumisa.com](https://www.sakhiledumisa.com/)**
 -   🌱 I’m currently learning **Data Engineering (ALX Africa)** & **DevOps (Educative.io)**
 -   🎯 My goal is to bridge **application development** with **data infrastructure** and **cloud operations**.
--   ⚡ **Fun fact:** I'm a huge fan of the modern web ecosystem, especially the Tanstack suite (Query & Router).
+-   ⚡ **Fun fact:** I'm a huge fan of the modern web ecosystem, especially the Tanstack suite (Start, Query & Router).
 
 
 ### 🎓 Education
-**BIS Information Science** (Final Year) | University of Pretoria
+**Completed BIS Information Science** (Data Governance, Security and Logistics Management) | University of Pretoria
 
 
 ### 🛠️ Tech Stack
