@@ -4,7 +4,7 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 
 -   🔭 I’m currently working on **[Trailer Base](https://trailerbase.tech)**
 -   🌐 Explore my portfolio: **[sakhiledumisa.com](https://www.sakhiledumisa.com/)**
--   🌱 I’m currently learning **Data Engineering (ALX Africa)** & **DevOps (Educative.io)**
+-   🌱 I’m currently learning **Data Engineering (ALX Africa)**
 -   🎯 My goal is to bridge **application development** with **data infrastructure** and **cloud operations**.
 -   ⚡ **Fun fact:** I'm a huge fan of the modern web ecosystem, especially the Tanstack suite (Start, Query & Router).
 
