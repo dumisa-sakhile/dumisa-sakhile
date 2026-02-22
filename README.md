@@ -21,7 +21,7 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 
 **Frontend & Backend:**  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,html,css,tailwind,nodejs,hono,fastapi,tanstack) 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,express,hono,fastapi,tanstack) 
 
 
 **Database & BaaS:**  
