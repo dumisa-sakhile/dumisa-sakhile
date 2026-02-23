@@ -35,3 +35,7 @@ A **Full-Stack Developer** from KwaZulu-Natal, South Africa, building robust web
 **Tools & DevOps:**  
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vercel,cloudflare,vscode)
+
+**Full-Stack:**  
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tanstack)
